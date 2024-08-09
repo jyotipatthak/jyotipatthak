@@ -1,4 +1,4 @@
-![logo](https://github.com/jyotipatthak/jyotipatthak/blob/main/Black%20Modern%20Graphic%20Designer%20LinkedIn%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm jyotipathak</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif"
